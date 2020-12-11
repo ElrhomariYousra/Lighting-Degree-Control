@@ -1,1 +1,1 @@
-# Lighting-Degree-Control
+# Lighting Degree Control
