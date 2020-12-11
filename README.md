@@ -21,7 +21,10 @@ This application follows a server-client paradigm:
 
 For the acquisition part, the value captured is displayed in LCD and at the same time in the web interface. There is then the notion of real time.
 
-<img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture1.png" width="600">
+
+<img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture1.png" width="800">
+
+
 
 
 
