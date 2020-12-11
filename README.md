@@ -13,20 +13,18 @@ This application follows a server-client paradigm:
          stores all of the history that will be used for tracking statistics.
     
    
-![alt text](https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture5.png)    
-
+  <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture5.png" width="600">
 
 
 
 For the acquisition part, the value captured is displayed in LCD and at the same time in the web interface. There is then the notion of real time.
 
-
-![alt text](https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture1.png)   
+<img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture1.png" width="600">
 
 
 For the control part, the system allows you to control the desired level of lighting. The 2 photos show the difference in light illumination between Very High (100% Duty-cycle) and Very Low (10% Duty-Cycle).
 
-  <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture2.png" width="400">        <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture3.png" width="400">
+  <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture2.png" width="400">     <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture3.png" width="400">
 
 
 
