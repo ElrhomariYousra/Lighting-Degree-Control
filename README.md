@@ -14,4 +14,4 @@ This application follows a server-client paradigm:
     
     
    
-![alt text](http://url/to/img.png)    
+![alt text](https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture1.png)    
