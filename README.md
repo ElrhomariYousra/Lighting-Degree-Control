@@ -13,7 +13,7 @@ This application follows a server-client paradigm:
          stores all of the history that will be used for tracking statistics.
     
    
-  <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture5.png" width="600">
+  <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture5.png">
 
 
 
