@@ -11,3 +11,7 @@ This application follows a server-client paradigm:
     4.The web interface is based on real time communication with the server.
     5.An SQLite database, which is a small database used on systems with limited memory, stores all of the history that will 
     be used for tracking statistics.
+    
+    
+   
+![alt text](http://url/to/img.png)    
