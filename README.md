@@ -17,6 +17,7 @@ This application follows a server-client paradigm:
 
 
 
+
 For the acquisition part, the value captured is displayed in LCD and at the same time in the web interface. There is then the notion of real time.
 
 
