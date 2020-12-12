@@ -14,7 +14,7 @@ This application follows a server-client paradigm:
     
    
   
-  <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture5.png">
+  <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture5.png" width="1000">
 
 
 
