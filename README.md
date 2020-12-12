@@ -28,6 +28,12 @@ For the acquisition part, the value captured is displayed in LCD and at the same
 
 
 
+
+
+
+
+
+
 For the control part, the system allows you to control the desired level of lighting. The 2 photos show the difference in light illumination between Very High (100% Duty-cycle) and Very Low (10% Duty-Cycle).
 
   <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture2.png" width="400">     <img src="https://github.com/ElrhomariYousra/Lighting-Degree-Control/blob/master/images/Picture3.png" width="400">
